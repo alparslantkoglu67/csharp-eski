@@ -1,0 +1,14 @@
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#console\uygu\uygu\bin\Debug\netcoreapp3.1\uygu.exe
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#console\uygu\uygu\bin\Debug\netcoreapp3.1\uygu.deps.json
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#console\uygu\uygu\bin\Debug\netcoreapp3.1\uygu.runtimeconfig.json
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#console\uygu\uygu\bin\Debug\netcoreapp3.1\uygu.runtimeconfig.dev.json
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#console\uygu\uygu\bin\Debug\netcoreapp3.1\uygu.dll
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#console\uygu\uygu\bin\Debug\netcoreapp3.1\uygu.pdb
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#console\uygu\uygu\obj\Debug\netcoreapp3.1\uygu.csproj.AssemblyReference.cache
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#console\uygu\uygu\obj\Debug\netcoreapp3.1\uygu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#console\uygu\uygu\obj\Debug\netcoreapp3.1\uygu.AssemblyInfoInputs.cache
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#console\uygu\uygu\obj\Debug\netcoreapp3.1\uygu.AssemblyInfo.cs
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#console\uygu\uygu\obj\Debug\netcoreapp3.1\uygu.csproj.CoreCompileInputs.cache
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#console\uygu\uygu\obj\Debug\netcoreapp3.1\uygu.dll
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#console\uygu\uygu\obj\Debug\netcoreapp3.1\uygu.pdb
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#console\uygu\uygu\obj\Debug\netcoreapp3.1\uygu.genruntimeconfig.cache

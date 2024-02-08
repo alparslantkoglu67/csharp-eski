@@ -1,0 +1,14 @@
+C:\Users\Râegar Nyroth\Desktop\c# udemy\c#console\Kayıt_class_yapıcı\Kayıt_class_yapıcı\bin\Debug\netcoreapp3.1\Kayıt_class_yapıcı.exe
+C:\Users\Râegar Nyroth\Desktop\c# udemy\c#console\Kayıt_class_yapıcı\Kayıt_class_yapıcı\bin\Debug\netcoreapp3.1\Kayıt_class_yapıcı.deps.json
+C:\Users\Râegar Nyroth\Desktop\c# udemy\c#console\Kayıt_class_yapıcı\Kayıt_class_yapıcı\bin\Debug\netcoreapp3.1\Kayıt_class_yapıcı.runtimeconfig.json
+C:\Users\Râegar Nyroth\Desktop\c# udemy\c#console\Kayıt_class_yapıcı\Kayıt_class_yapıcı\bin\Debug\netcoreapp3.1\Kayıt_class_yapıcı.runtimeconfig.dev.json
+C:\Users\Râegar Nyroth\Desktop\c# udemy\c#console\Kayıt_class_yapıcı\Kayıt_class_yapıcı\bin\Debug\netcoreapp3.1\Kayıt_class_yapıcı.dll
+C:\Users\Râegar Nyroth\Desktop\c# udemy\c#console\Kayıt_class_yapıcı\Kayıt_class_yapıcı\bin\Debug\netcoreapp3.1\Kayıt_class_yapıcı.pdb
+C:\Users\Râegar Nyroth\Desktop\c# udemy\c#console\Kayıt_class_yapıcı\Kayıt_class_yapıcı\obj\Debug\netcoreapp3.1\Kayıt_class_yapıcı.csproj.AssemblyReference.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\c#console\Kayıt_class_yapıcı\Kayıt_class_yapıcı\obj\Debug\netcoreapp3.1\Kayıt_class_yapıcı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Râegar Nyroth\Desktop\c# udemy\c#console\Kayıt_class_yapıcı\Kayıt_class_yapıcı\obj\Debug\netcoreapp3.1\Kayıt_class_yapıcı.AssemblyInfoInputs.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\c#console\Kayıt_class_yapıcı\Kayıt_class_yapıcı\obj\Debug\netcoreapp3.1\Kayıt_class_yapıcı.AssemblyInfo.cs
+C:\Users\Râegar Nyroth\Desktop\c# udemy\c#console\Kayıt_class_yapıcı\Kayıt_class_yapıcı\obj\Debug\netcoreapp3.1\Kayıt_class_yapıcı.csproj.CoreCompileInputs.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\c#console\Kayıt_class_yapıcı\Kayıt_class_yapıcı\obj\Debug\netcoreapp3.1\Kayıt_class_yapıcı.dll
+C:\Users\Râegar Nyroth\Desktop\c# udemy\c#console\Kayıt_class_yapıcı\Kayıt_class_yapıcı\obj\Debug\netcoreapp3.1\Kayıt_class_yapıcı.pdb
+C:\Users\Râegar Nyroth\Desktop\c# udemy\c#console\Kayıt_class_yapıcı\Kayıt_class_yapıcı\obj\Debug\netcoreapp3.1\Kayıt_class_yapıcı.genruntimeconfig.cache

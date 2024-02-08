@@ -1,0 +1,14 @@
+C:\Users\Râegar Nyroth\Desktop\c# udemy\deneme döngüler\deneme döngüler\bin\Debug\netcoreapp3.1\deneme döngüler.exe
+C:\Users\Râegar Nyroth\Desktop\c# udemy\deneme döngüler\deneme döngüler\bin\Debug\netcoreapp3.1\deneme döngüler.deps.json
+C:\Users\Râegar Nyroth\Desktop\c# udemy\deneme döngüler\deneme döngüler\bin\Debug\netcoreapp3.1\deneme döngüler.runtimeconfig.json
+C:\Users\Râegar Nyroth\Desktop\c# udemy\deneme döngüler\deneme döngüler\bin\Debug\netcoreapp3.1\deneme döngüler.runtimeconfig.dev.json
+C:\Users\Râegar Nyroth\Desktop\c# udemy\deneme döngüler\deneme döngüler\bin\Debug\netcoreapp3.1\deneme döngüler.dll
+C:\Users\Râegar Nyroth\Desktop\c# udemy\deneme döngüler\deneme döngüler\bin\Debug\netcoreapp3.1\deneme döngüler.pdb
+C:\Users\Râegar Nyroth\Desktop\c# udemy\deneme döngüler\deneme döngüler\obj\Debug\netcoreapp3.1\deneme döngüler.csproj.AssemblyReference.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\deneme döngüler\deneme döngüler\obj\Debug\netcoreapp3.1\deneme döngüler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Râegar Nyroth\Desktop\c# udemy\deneme döngüler\deneme döngüler\obj\Debug\netcoreapp3.1\deneme döngüler.AssemblyInfoInputs.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\deneme döngüler\deneme döngüler\obj\Debug\netcoreapp3.1\deneme döngüler.AssemblyInfo.cs
+C:\Users\Râegar Nyroth\Desktop\c# udemy\deneme döngüler\deneme döngüler\obj\Debug\netcoreapp3.1\deneme döngüler.csproj.CoreCompileInputs.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\deneme döngüler\deneme döngüler\obj\Debug\netcoreapp3.1\deneme döngüler.dll
+C:\Users\Râegar Nyroth\Desktop\c# udemy\deneme döngüler\deneme döngüler\obj\Debug\netcoreapp3.1\deneme döngüler.pdb
+C:\Users\Râegar Nyroth\Desktop\c# udemy\deneme döngüler\deneme döngüler\obj\Debug\netcoreapp3.1\deneme döngüler.genruntimeconfig.cache

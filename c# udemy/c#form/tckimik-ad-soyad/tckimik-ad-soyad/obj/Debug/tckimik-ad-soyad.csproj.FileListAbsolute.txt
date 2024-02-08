@@ -1,0 +1,10 @@
+C:\Users\Râegar Nyroth\Desktop\c# udemy\tckimik-ad-soyad\tckimik-ad-soyad\bin\Debug\tckimik-ad-soyad.exe.config
+C:\Users\Râegar Nyroth\Desktop\c# udemy\tckimik-ad-soyad\tckimik-ad-soyad\bin\Debug\tckimik-ad-soyad.exe
+C:\Users\Râegar Nyroth\Desktop\c# udemy\tckimik-ad-soyad\tckimik-ad-soyad\bin\Debug\tckimik-ad-soyad.pdb
+C:\Users\Râegar Nyroth\Desktop\c# udemy\tckimik-ad-soyad\tckimik-ad-soyad\obj\Debug\tckimik-ad-soyad.csproj.AssemblyReference.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\tckimik-ad-soyad\tckimik-ad-soyad\obj\Debug\tckimik_ad_soyad.Form1.resources
+C:\Users\Râegar Nyroth\Desktop\c# udemy\tckimik-ad-soyad\tckimik-ad-soyad\obj\Debug\tckimik_ad_soyad.Properties.Resources.resources
+C:\Users\Râegar Nyroth\Desktop\c# udemy\tckimik-ad-soyad\tckimik-ad-soyad\obj\Debug\tckimik-ad-soyad.csproj.GenerateResource.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\tckimik-ad-soyad\tckimik-ad-soyad\obj\Debug\tckimik-ad-soyad.csproj.CoreCompileInputs.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\tckimik-ad-soyad\tckimik-ad-soyad\obj\Debug\tckimik-ad-soyad.exe
+C:\Users\Râegar Nyroth\Desktop\c# udemy\tckimik-ad-soyad\tckimik-ad-soyad\obj\Debug\tckimik-ad-soyad.pdb

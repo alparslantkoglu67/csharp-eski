@@ -1,0 +1,10 @@
+C:\Users\Râegar Nyroth\Desktop\c# udemy\yaş maaş meslek kaydeden uygulama\yaş maaş meslek kaydeden uygulama\bin\Debug\yaş maaş meslek kaydeden uygulama.exe.config
+C:\Users\Râegar Nyroth\Desktop\c# udemy\yaş maaş meslek kaydeden uygulama\yaş maaş meslek kaydeden uygulama\bin\Debug\yaş maaş meslek kaydeden uygulama.exe
+C:\Users\Râegar Nyroth\Desktop\c# udemy\yaş maaş meslek kaydeden uygulama\yaş maaş meslek kaydeden uygulama\bin\Debug\yaş maaş meslek kaydeden uygulama.pdb
+C:\Users\Râegar Nyroth\Desktop\c# udemy\yaş maaş meslek kaydeden uygulama\yaş maaş meslek kaydeden uygulama\obj\Debug\yaş maaş meslek kaydeden uygulama.csproj.AssemblyReference.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\yaş maaş meslek kaydeden uygulama\yaş maaş meslek kaydeden uygulama\obj\Debug\yaş_maaş_meslek_kaydeden_uygulama.Form1.resources
+C:\Users\Râegar Nyroth\Desktop\c# udemy\yaş maaş meslek kaydeden uygulama\yaş maaş meslek kaydeden uygulama\obj\Debug\yaş_maaş_meslek_kaydeden_uygulama.Properties.Resources.resources
+C:\Users\Râegar Nyroth\Desktop\c# udemy\yaş maaş meslek kaydeden uygulama\yaş maaş meslek kaydeden uygulama\obj\Debug\yaş maaş meslek kaydeden uygulama.csproj.GenerateResource.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\yaş maaş meslek kaydeden uygulama\yaş maaş meslek kaydeden uygulama\obj\Debug\yaş maaş meslek kaydeden uygulama.csproj.CoreCompileInputs.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\yaş maaş meslek kaydeden uygulama\yaş maaş meslek kaydeden uygulama\obj\Debug\yaş maaş meslek kaydeden uygulama.exe
+C:\Users\Râegar Nyroth\Desktop\c# udemy\yaş maaş meslek kaydeden uygulama\yaş maaş meslek kaydeden uygulama\obj\Debug\yaş maaş meslek kaydeden uygulama.pdb

@@ -1,0 +1,9 @@
+C:\Users\Râegar Nyroth\Desktop\c# udemy\switchcae\switchcae\bin\Debug\switchcae.exe.config
+C:\Users\Râegar Nyroth\Desktop\c# udemy\switchcae\switchcae\bin\Debug\switchcae.exe
+C:\Users\Râegar Nyroth\Desktop\c# udemy\switchcae\switchcae\bin\Debug\switchcae.pdb
+C:\Users\Râegar Nyroth\Desktop\c# udemy\switchcae\switchcae\obj\Debug\switchcae.Form1.resources
+C:\Users\Râegar Nyroth\Desktop\c# udemy\switchcae\switchcae\obj\Debug\switchcae.Properties.Resources.resources
+C:\Users\Râegar Nyroth\Desktop\c# udemy\switchcae\switchcae\obj\Debug\switchcae.csproj.GenerateResource.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\switchcae\switchcae\obj\Debug\switchcae.csproj.CoreCompileInputs.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\switchcae\switchcae\obj\Debug\switchcae.exe
+C:\Users\Râegar Nyroth\Desktop\c# udemy\switchcae\switchcae\obj\Debug\switchcae.pdb

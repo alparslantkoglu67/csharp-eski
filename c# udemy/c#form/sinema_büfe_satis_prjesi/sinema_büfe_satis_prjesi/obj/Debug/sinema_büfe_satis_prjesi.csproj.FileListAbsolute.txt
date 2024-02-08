@@ -1,0 +1,20 @@
+C:\Users\Râegar Nyroth\source\repos\sinema_büfe_satis_prjesi\sinema_büfe_satis_prjesi\bin\Debug\sinema_büfe_satis_prjesi.exe.config
+C:\Users\Râegar Nyroth\source\repos\sinema_büfe_satis_prjesi\sinema_büfe_satis_prjesi\bin\Debug\sinema_büfe_satis_prjesi.exe
+C:\Users\Râegar Nyroth\source\repos\sinema_büfe_satis_prjesi\sinema_büfe_satis_prjesi\bin\Debug\sinema_büfe_satis_prjesi.pdb
+C:\Users\Râegar Nyroth\source\repos\sinema_büfe_satis_prjesi\sinema_büfe_satis_prjesi\obj\Debug\sinema_büfe_satis_prjesi.csproj.AssemblyReference.cache
+C:\Users\Râegar Nyroth\source\repos\sinema_büfe_satis_prjesi\sinema_büfe_satis_prjesi\obj\Debug\sinema_büfe_satis_prjesi.Form1.resources
+C:\Users\Râegar Nyroth\source\repos\sinema_büfe_satis_prjesi\sinema_büfe_satis_prjesi\obj\Debug\sinema_büfe_satis_prjesi.Properties.Resources.resources
+C:\Users\Râegar Nyroth\source\repos\sinema_büfe_satis_prjesi\sinema_büfe_satis_prjesi\obj\Debug\sinema_büfe_satis_prjesi.csproj.GenerateResource.cache
+C:\Users\Râegar Nyroth\source\repos\sinema_büfe_satis_prjesi\sinema_büfe_satis_prjesi\obj\Debug\sinema_büfe_satis_prjesi.csproj.CoreCompileInputs.cache
+C:\Users\Râegar Nyroth\source\repos\sinema_büfe_satis_prjesi\sinema_büfe_satis_prjesi\obj\Debug\sinema_büfe_satis_prjesi.exe
+C:\Users\Râegar Nyroth\source\repos\sinema_büfe_satis_prjesi\sinema_büfe_satis_prjesi\obj\Debug\sinema_büfe_satis_prjesi.pdb
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#form\sinema_büfe_satis_prjesi\sinema_büfe_satis_prjesi\bin\Debug\sinema_büfe_satis_prjesi.exe.config
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#form\sinema_büfe_satis_prjesi\sinema_büfe_satis_prjesi\bin\Debug\sinema_büfe_satis_prjesi.exe
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#form\sinema_büfe_satis_prjesi\sinema_büfe_satis_prjesi\bin\Debug\sinema_büfe_satis_prjesi.pdb
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#form\sinema_büfe_satis_prjesi\sinema_büfe_satis_prjesi\obj\Debug\sinema_büfe_satis_prjesi.csproj.AssemblyReference.cache
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#form\sinema_büfe_satis_prjesi\sinema_büfe_satis_prjesi\obj\Debug\sinema_büfe_satis_prjesi.Form1.resources
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#form\sinema_büfe_satis_prjesi\sinema_büfe_satis_prjesi\obj\Debug\sinema_büfe_satis_prjesi.Properties.Resources.resources
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#form\sinema_büfe_satis_prjesi\sinema_büfe_satis_prjesi\obj\Debug\sinema_büfe_satis_prjesi.csproj.GenerateResource.cache
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#form\sinema_büfe_satis_prjesi\sinema_büfe_satis_prjesi\obj\Debug\sinema_büfe_satis_prjesi.csproj.CoreCompileInputs.cache
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#form\sinema_büfe_satis_prjesi\sinema_büfe_satis_prjesi\obj\Debug\sinema_büfe_satis_prjesi.exe
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#form\sinema_büfe_satis_prjesi\sinema_büfe_satis_prjesi\obj\Debug\sinema_büfe_satis_prjesi.pdb

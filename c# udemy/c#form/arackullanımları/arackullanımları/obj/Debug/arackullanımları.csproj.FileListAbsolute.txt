@@ -1,0 +1,10 @@
+C:\Users\Râegar Nyroth\Desktop\c# udemy\arackullanımları\arackullanımları\bin\Debug\arackullanımları.exe.config
+C:\Users\Râegar Nyroth\Desktop\c# udemy\arackullanımları\arackullanımları\bin\Debug\arackullanımları.exe
+C:\Users\Râegar Nyroth\Desktop\c# udemy\arackullanımları\arackullanımları\bin\Debug\arackullanımları.pdb
+C:\Users\Râegar Nyroth\Desktop\c# udemy\arackullanımları\arackullanımları\obj\Debug\arackullanımları.csproj.AssemblyReference.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\arackullanımları\arackullanımları\obj\Debug\arackullanımları.Form1.resources
+C:\Users\Râegar Nyroth\Desktop\c# udemy\arackullanımları\arackullanımları\obj\Debug\arackullanımları.Properties.Resources.resources
+C:\Users\Râegar Nyroth\Desktop\c# udemy\arackullanımları\arackullanımları\obj\Debug\arackullanımları.csproj.GenerateResource.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\arackullanımları\arackullanımları\obj\Debug\arackullanımları.csproj.CoreCompileInputs.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\arackullanımları\arackullanımları\obj\Debug\arackullanımları.exe
+C:\Users\Râegar Nyroth\Desktop\c# udemy\arackullanımları\arackullanımları\obj\Debug\arackullanımları.pdb

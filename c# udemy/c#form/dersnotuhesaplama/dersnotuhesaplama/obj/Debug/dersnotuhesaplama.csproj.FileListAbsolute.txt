@@ -1,0 +1,10 @@
+C:\Users\Râegar Nyroth\source\repos\dersnotuhesaplama\dersnotuhesaplama\bin\Debug\dersnotuhesaplama.exe.config
+C:\Users\Râegar Nyroth\source\repos\dersnotuhesaplama\dersnotuhesaplama\bin\Debug\dersnotuhesaplama.exe
+C:\Users\Râegar Nyroth\source\repos\dersnotuhesaplama\dersnotuhesaplama\bin\Debug\dersnotuhesaplama.pdb
+C:\Users\Râegar Nyroth\source\repos\dersnotuhesaplama\dersnotuhesaplama\obj\Debug\dersnotuhesaplama.csproj.AssemblyReference.cache
+C:\Users\Râegar Nyroth\source\repos\dersnotuhesaplama\dersnotuhesaplama\obj\Debug\dersnotuhesaplama.Form1.resources
+C:\Users\Râegar Nyroth\source\repos\dersnotuhesaplama\dersnotuhesaplama\obj\Debug\dersnotuhesaplama.Properties.Resources.resources
+C:\Users\Râegar Nyroth\source\repos\dersnotuhesaplama\dersnotuhesaplama\obj\Debug\dersnotuhesaplama.csproj.GenerateResource.cache
+C:\Users\Râegar Nyroth\source\repos\dersnotuhesaplama\dersnotuhesaplama\obj\Debug\dersnotuhesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Râegar Nyroth\source\repos\dersnotuhesaplama\dersnotuhesaplama\obj\Debug\dersnotuhesaplama.exe
+C:\Users\Râegar Nyroth\source\repos\dersnotuhesaplama\dersnotuhesaplama\obj\Debug\dersnotuhesaplama.pdb

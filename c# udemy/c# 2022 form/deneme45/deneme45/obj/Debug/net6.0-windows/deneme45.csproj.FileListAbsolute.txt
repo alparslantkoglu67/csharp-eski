@@ -1,0 +1,17 @@
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\deneme45\deneme45\bin\Debug\net6.0-windows\deneme45.exe
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\deneme45\deneme45\bin\Debug\net6.0-windows\deneme45.deps.json
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\deneme45\deneme45\bin\Debug\net6.0-windows\deneme45.runtimeconfig.json
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\deneme45\deneme45\bin\Debug\net6.0-windows\deneme45.dll
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\deneme45\deneme45\bin\Debug\net6.0-windows\deneme45.pdb
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\deneme45\deneme45\obj\Debug\net6.0-windows\deneme45.csproj.AssemblyReference.cache
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\deneme45\deneme45\obj\Debug\net6.0-windows\deneme45.Form1.resources
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\deneme45\deneme45\obj\Debug\net6.0-windows\deneme45.csproj.GenerateResource.cache
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\deneme45\deneme45\obj\Debug\net6.0-windows\deneme45.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\deneme45\deneme45\obj\Debug\net6.0-windows\deneme45.AssemblyInfoInputs.cache
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\deneme45\deneme45\obj\Debug\net6.0-windows\deneme45.AssemblyInfo.cs
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\deneme45\deneme45\obj\Debug\net6.0-windows\deneme45.csproj.CoreCompileInputs.cache
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\deneme45\deneme45\obj\Debug\net6.0-windows\deneme45.dll
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\deneme45\deneme45\obj\Debug\net6.0-windows\refint\deneme45.dll
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\deneme45\deneme45\obj\Debug\net6.0-windows\deneme45.pdb
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\deneme45\deneme45\obj\Debug\net6.0-windows\deneme45.genruntimeconfig.cache
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\deneme45\deneme45\obj\Debug\net6.0-windows\ref\deneme45.dll

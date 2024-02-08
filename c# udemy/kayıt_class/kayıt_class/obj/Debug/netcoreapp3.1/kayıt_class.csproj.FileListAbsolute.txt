@@ -1,0 +1,14 @@
+C:\Users\Râegar Nyroth\Desktop\c# udemy\kayıt_class\kayıt_class\bin\Debug\netcoreapp3.1\kayıt_class.exe
+C:\Users\Râegar Nyroth\Desktop\c# udemy\kayıt_class\kayıt_class\bin\Debug\netcoreapp3.1\kayıt_class.deps.json
+C:\Users\Râegar Nyroth\Desktop\c# udemy\kayıt_class\kayıt_class\bin\Debug\netcoreapp3.1\kayıt_class.runtimeconfig.json
+C:\Users\Râegar Nyroth\Desktop\c# udemy\kayıt_class\kayıt_class\bin\Debug\netcoreapp3.1\kayıt_class.runtimeconfig.dev.json
+C:\Users\Râegar Nyroth\Desktop\c# udemy\kayıt_class\kayıt_class\bin\Debug\netcoreapp3.1\kayıt_class.dll
+C:\Users\Râegar Nyroth\Desktop\c# udemy\kayıt_class\kayıt_class\bin\Debug\netcoreapp3.1\kayıt_class.pdb
+C:\Users\Râegar Nyroth\Desktop\c# udemy\kayıt_class\kayıt_class\obj\Debug\netcoreapp3.1\kayıt_class.csproj.AssemblyReference.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\kayıt_class\kayıt_class\obj\Debug\netcoreapp3.1\kayıt_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Râegar Nyroth\Desktop\c# udemy\kayıt_class\kayıt_class\obj\Debug\netcoreapp3.1\kayıt_class.AssemblyInfoInputs.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\kayıt_class\kayıt_class\obj\Debug\netcoreapp3.1\kayıt_class.AssemblyInfo.cs
+C:\Users\Râegar Nyroth\Desktop\c# udemy\kayıt_class\kayıt_class\obj\Debug\netcoreapp3.1\kayıt_class.csproj.CoreCompileInputs.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\kayıt_class\kayıt_class\obj\Debug\netcoreapp3.1\kayıt_class.dll
+C:\Users\Râegar Nyroth\Desktop\c# udemy\kayıt_class\kayıt_class\obj\Debug\netcoreapp3.1\kayıt_class.pdb
+C:\Users\Râegar Nyroth\Desktop\c# udemy\kayıt_class\kayıt_class\obj\Debug\netcoreapp3.1\kayıt_class.genruntimeconfig.cache

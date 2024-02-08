@@ -1,0 +1,10 @@
+C:\Users\Râegar Nyroth\Desktop\c# udemy\donguler\donguler\bin\Debug\donguler.exe.config
+C:\Users\Râegar Nyroth\Desktop\c# udemy\donguler\donguler\bin\Debug\donguler.exe
+C:\Users\Râegar Nyroth\Desktop\c# udemy\donguler\donguler\bin\Debug\donguler.pdb
+C:\Users\Râegar Nyroth\Desktop\c# udemy\donguler\donguler\obj\Debug\donguler.csproj.AssemblyReference.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\donguler\donguler\obj\Debug\donguler.Form1.resources
+C:\Users\Râegar Nyroth\Desktop\c# udemy\donguler\donguler\obj\Debug\donguler.Properties.Resources.resources
+C:\Users\Râegar Nyroth\Desktop\c# udemy\donguler\donguler\obj\Debug\donguler.csproj.GenerateResource.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\donguler\donguler\obj\Debug\donguler.csproj.CoreCompileInputs.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\donguler\donguler\obj\Debug\donguler.exe
+C:\Users\Râegar Nyroth\Desktop\c# udemy\donguler\donguler\obj\Debug\donguler.pdb

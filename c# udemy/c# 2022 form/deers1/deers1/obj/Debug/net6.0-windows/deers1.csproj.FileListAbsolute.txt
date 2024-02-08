@@ -1,0 +1,17 @@
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\deers1\deers1\bin\Debug\net6.0-windows\deers1.exe
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\deers1\deers1\bin\Debug\net6.0-windows\deers1.deps.json
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\deers1\deers1\bin\Debug\net6.0-windows\deers1.runtimeconfig.json
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\deers1\deers1\bin\Debug\net6.0-windows\deers1.dll
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\deers1\deers1\bin\Debug\net6.0-windows\deers1.pdb
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\deers1\deers1\obj\Debug\net6.0-windows\deers1.csproj.AssemblyReference.cache
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\deers1\deers1\obj\Debug\net6.0-windows\deers1.Form1.resources
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\deers1\deers1\obj\Debug\net6.0-windows\deers1.csproj.GenerateResource.cache
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\deers1\deers1\obj\Debug\net6.0-windows\deers1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\deers1\deers1\obj\Debug\net6.0-windows\deers1.AssemblyInfoInputs.cache
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\deers1\deers1\obj\Debug\net6.0-windows\deers1.AssemblyInfo.cs
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\deers1\deers1\obj\Debug\net6.0-windows\deers1.csproj.CoreCompileInputs.cache
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\deers1\deers1\obj\Debug\net6.0-windows\deers1.dll
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\deers1\deers1\obj\Debug\net6.0-windows\refint\deers1.dll
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\deers1\deers1\obj\Debug\net6.0-windows\deers1.pdb
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\deers1\deers1\obj\Debug\net6.0-windows\deers1.genruntimeconfig.cache
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\deers1\deers1\obj\Debug\net6.0-windows\ref\deers1.dll

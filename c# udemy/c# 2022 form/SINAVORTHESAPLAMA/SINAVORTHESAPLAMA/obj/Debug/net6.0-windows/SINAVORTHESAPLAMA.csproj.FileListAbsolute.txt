@@ -1,0 +1,17 @@
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\SINAVORTHESAPLAMA\SINAVORTHESAPLAMA\bin\Debug\net6.0-windows\SINAVORTHESAPLAMA.exe
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\SINAVORTHESAPLAMA\SINAVORTHESAPLAMA\bin\Debug\net6.0-windows\SINAVORTHESAPLAMA.deps.json
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\SINAVORTHESAPLAMA\SINAVORTHESAPLAMA\bin\Debug\net6.0-windows\SINAVORTHESAPLAMA.runtimeconfig.json
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\SINAVORTHESAPLAMA\SINAVORTHESAPLAMA\bin\Debug\net6.0-windows\SINAVORTHESAPLAMA.dll
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\SINAVORTHESAPLAMA\SINAVORTHESAPLAMA\bin\Debug\net6.0-windows\SINAVORTHESAPLAMA.pdb
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\SINAVORTHESAPLAMA\SINAVORTHESAPLAMA\obj\Debug\net6.0-windows\SINAVORTHESAPLAMA.csproj.AssemblyReference.cache
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\SINAVORTHESAPLAMA\SINAVORTHESAPLAMA\obj\Debug\net6.0-windows\SINAVORTHESAPLAMA.Form1.resources
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\SINAVORTHESAPLAMA\SINAVORTHESAPLAMA\obj\Debug\net6.0-windows\SINAVORTHESAPLAMA.csproj.GenerateResource.cache
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\SINAVORTHESAPLAMA\SINAVORTHESAPLAMA\obj\Debug\net6.0-windows\SINAVORTHESAPLAMA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\SINAVORTHESAPLAMA\SINAVORTHESAPLAMA\obj\Debug\net6.0-windows\SINAVORTHESAPLAMA.AssemblyInfoInputs.cache
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\SINAVORTHESAPLAMA\SINAVORTHESAPLAMA\obj\Debug\net6.0-windows\SINAVORTHESAPLAMA.AssemblyInfo.cs
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\SINAVORTHESAPLAMA\SINAVORTHESAPLAMA\obj\Debug\net6.0-windows\SINAVORTHESAPLAMA.csproj.CoreCompileInputs.cache
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\SINAVORTHESAPLAMA\SINAVORTHESAPLAMA\obj\Debug\net6.0-windows\SINAVORTHESAPLAMA.dll
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\SINAVORTHESAPLAMA\SINAVORTHESAPLAMA\obj\Debug\net6.0-windows\refint\SINAVORTHESAPLAMA.dll
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\SINAVORTHESAPLAMA\SINAVORTHESAPLAMA\obj\Debug\net6.0-windows\SINAVORTHESAPLAMA.pdb
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\SINAVORTHESAPLAMA\SINAVORTHESAPLAMA\obj\Debug\net6.0-windows\SINAVORTHESAPLAMA.genruntimeconfig.cache
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c# 2022 form\SINAVORTHESAPLAMA\SINAVORTHESAPLAMA\obj\Debug\net6.0-windows\ref\SINAVORTHESAPLAMA.dll

@@ -1,0 +1,14 @@
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#console\aşk ölçer\aşk ölçer\bin\Debug\netcoreapp3.1\aşk ölçer.exe
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#console\aşk ölçer\aşk ölçer\bin\Debug\netcoreapp3.1\aşk ölçer.deps.json
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#console\aşk ölçer\aşk ölçer\bin\Debug\netcoreapp3.1\aşk ölçer.runtimeconfig.json
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#console\aşk ölçer\aşk ölçer\bin\Debug\netcoreapp3.1\aşk ölçer.runtimeconfig.dev.json
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#console\aşk ölçer\aşk ölçer\bin\Debug\netcoreapp3.1\aşk ölçer.dll
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#console\aşk ölçer\aşk ölçer\bin\Debug\netcoreapp3.1\aşk ölçer.pdb
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#console\aşk ölçer\aşk ölçer\obj\Debug\netcoreapp3.1\aşk ölçer.csproj.AssemblyReference.cache
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#console\aşk ölçer\aşk ölçer\obj\Debug\netcoreapp3.1\aşk ölçer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#console\aşk ölçer\aşk ölçer\obj\Debug\netcoreapp3.1\aşk ölçer.AssemblyInfoInputs.cache
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#console\aşk ölçer\aşk ölçer\obj\Debug\netcoreapp3.1\aşk ölçer.AssemblyInfo.cs
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#console\aşk ölçer\aşk ölçer\obj\Debug\netcoreapp3.1\aşk ölçer.csproj.CoreCompileInputs.cache
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#console\aşk ölçer\aşk ölçer\obj\Debug\netcoreapp3.1\aşk ölçer.dll
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#console\aşk ölçer\aşk ölçer\obj\Debug\netcoreapp3.1\aşk ölçer.pdb
+C:\Users\Râegar Nyroth\Desktop\Alparslan\c#\c# udemy\c#console\aşk ölçer\aşk ölçer\obj\Debug\netcoreapp3.1\aşk ölçer.genruntimeconfig.cache

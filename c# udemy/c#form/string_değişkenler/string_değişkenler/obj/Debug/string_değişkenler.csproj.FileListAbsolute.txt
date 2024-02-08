@@ -1,0 +1,10 @@
+C:\Users\Râegar Nyroth\Desktop\c# udemy\string_değişkenler\string_değişkenler\bin\Debug\string_değişkenler.exe.config
+C:\Users\Râegar Nyroth\Desktop\c# udemy\string_değişkenler\string_değişkenler\bin\Debug\string_değişkenler.exe
+C:\Users\Râegar Nyroth\Desktop\c# udemy\string_değişkenler\string_değişkenler\bin\Debug\string_değişkenler.pdb
+C:\Users\Râegar Nyroth\Desktop\c# udemy\string_değişkenler\string_değişkenler\obj\Debug\string_değişkenler.csproj.AssemblyReference.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\string_değişkenler\string_değişkenler\obj\Debug\string_değişkenler.Form1.resources
+C:\Users\Râegar Nyroth\Desktop\c# udemy\string_değişkenler\string_değişkenler\obj\Debug\string_değişkenler.Properties.Resources.resources
+C:\Users\Râegar Nyroth\Desktop\c# udemy\string_değişkenler\string_değişkenler\obj\Debug\string_değişkenler.csproj.GenerateResource.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\string_değişkenler\string_değişkenler\obj\Debug\string_değişkenler.csproj.CoreCompileInputs.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\string_değişkenler\string_değişkenler\obj\Debug\string_değişkenler.exe
+C:\Users\Râegar Nyroth\Desktop\c# udemy\string_değişkenler\string_değişkenler\obj\Debug\string_değişkenler.pdb

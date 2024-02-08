@@ -1,0 +1,10 @@
+C:\Users\Râegar Nyroth\Desktop\c# udemy\int_degiskenler\int_degiskenler\bin\Debug\int_degiskenler.exe.config
+C:\Users\Râegar Nyroth\Desktop\c# udemy\int_degiskenler\int_degiskenler\bin\Debug\int_degiskenler.exe
+C:\Users\Râegar Nyroth\Desktop\c# udemy\int_degiskenler\int_degiskenler\bin\Debug\int_degiskenler.pdb
+C:\Users\Râegar Nyroth\Desktop\c# udemy\int_degiskenler\int_degiskenler\obj\Debug\int_degiskenler.csproj.AssemblyReference.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\int_degiskenler\int_degiskenler\obj\Debug\int_degiskenler.Form1.resources
+C:\Users\Râegar Nyroth\Desktop\c# udemy\int_degiskenler\int_degiskenler\obj\Debug\int_degiskenler.Properties.Resources.resources
+C:\Users\Râegar Nyroth\Desktop\c# udemy\int_degiskenler\int_degiskenler\obj\Debug\int_degiskenler.csproj.GenerateResource.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\int_degiskenler\int_degiskenler\obj\Debug\int_degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\int_degiskenler\int_degiskenler\obj\Debug\int_degiskenler.exe
+C:\Users\Râegar Nyroth\Desktop\c# udemy\int_degiskenler\int_degiskenler\obj\Debug\int_degiskenler.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "toplamacikarmaswitchcase", "toplamacikarmaswitchcase\toplamacikarmaswitchcase.csproj", "{CFF11AAF-18F0-495A-B37B-D30D97EC584B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFF11AAF-18F0-495A-B37B-D30D97EC584B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF11AAF-18F0-495A-B37B-D30D97EC584B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF11AAF-18F0-495A-B37B-D30D97EC584B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF11AAF-18F0-495A-B37B-D30D97EC584B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42702FEE-75D8-40A0-BF82-CA338C15756A}
+	EndGlobalSection
+EndGlobal

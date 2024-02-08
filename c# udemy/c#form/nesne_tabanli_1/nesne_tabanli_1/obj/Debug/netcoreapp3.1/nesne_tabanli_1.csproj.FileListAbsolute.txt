@@ -1,0 +1,14 @@
+C:\Users\Râegar Nyroth\Desktop\c# udemy\nesne_tabanli_1\nesne_tabanli_1\bin\Debug\netcoreapp3.1\nesne_tabanli_1.exe
+C:\Users\Râegar Nyroth\Desktop\c# udemy\nesne_tabanli_1\nesne_tabanli_1\bin\Debug\netcoreapp3.1\nesne_tabanli_1.deps.json
+C:\Users\Râegar Nyroth\Desktop\c# udemy\nesne_tabanli_1\nesne_tabanli_1\bin\Debug\netcoreapp3.1\nesne_tabanli_1.runtimeconfig.json
+C:\Users\Râegar Nyroth\Desktop\c# udemy\nesne_tabanli_1\nesne_tabanli_1\bin\Debug\netcoreapp3.1\nesne_tabanli_1.runtimeconfig.dev.json
+C:\Users\Râegar Nyroth\Desktop\c# udemy\nesne_tabanli_1\nesne_tabanli_1\bin\Debug\netcoreapp3.1\nesne_tabanli_1.dll
+C:\Users\Râegar Nyroth\Desktop\c# udemy\nesne_tabanli_1\nesne_tabanli_1\bin\Debug\netcoreapp3.1\nesne_tabanli_1.pdb
+C:\Users\Râegar Nyroth\Desktop\c# udemy\nesne_tabanli_1\nesne_tabanli_1\obj\Debug\netcoreapp3.1\nesne_tabanli_1.csproj.AssemblyReference.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\nesne_tabanli_1\nesne_tabanli_1\obj\Debug\netcoreapp3.1\nesne_tabanli_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Râegar Nyroth\Desktop\c# udemy\nesne_tabanli_1\nesne_tabanli_1\obj\Debug\netcoreapp3.1\nesne_tabanli_1.AssemblyInfoInputs.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\nesne_tabanli_1\nesne_tabanli_1\obj\Debug\netcoreapp3.1\nesne_tabanli_1.AssemblyInfo.cs
+C:\Users\Râegar Nyroth\Desktop\c# udemy\nesne_tabanli_1\nesne_tabanli_1\obj\Debug\netcoreapp3.1\nesne_tabanli_1.csproj.CoreCompileInputs.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\nesne_tabanli_1\nesne_tabanli_1\obj\Debug\netcoreapp3.1\nesne_tabanli_1.dll
+C:\Users\Râegar Nyroth\Desktop\c# udemy\nesne_tabanli_1\nesne_tabanli_1\obj\Debug\netcoreapp3.1\nesne_tabanli_1.pdb
+C:\Users\Râegar Nyroth\Desktop\c# udemy\nesne_tabanli_1\nesne_tabanli_1\obj\Debug\netcoreapp3.1\nesne_tabanli_1.genruntimeconfig.cache

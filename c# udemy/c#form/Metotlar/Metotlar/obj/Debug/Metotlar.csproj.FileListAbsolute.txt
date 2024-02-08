@@ -1,0 +1,10 @@
+C:\Users\Râegar Nyroth\Desktop\c# udemy\Metotlar\Metotlar\bin\Debug\Metotlar.exe.config
+C:\Users\Râegar Nyroth\Desktop\c# udemy\Metotlar\Metotlar\bin\Debug\Metotlar.exe
+C:\Users\Râegar Nyroth\Desktop\c# udemy\Metotlar\Metotlar\bin\Debug\Metotlar.pdb
+C:\Users\Râegar Nyroth\Desktop\c# udemy\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.AssemblyReference.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\Metotlar\Metotlar\obj\Debug\Metotlar.Form1.resources
+C:\Users\Râegar Nyroth\Desktop\c# udemy\Metotlar\Metotlar\obj\Debug\Metotlar.Properties.Resources.resources
+C:\Users\Râegar Nyroth\Desktop\c# udemy\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.GenerateResource.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\Metotlar\Metotlar\obj\Debug\Metotlar.exe
+C:\Users\Râegar Nyroth\Desktop\c# udemy\Metotlar\Metotlar\obj\Debug\Metotlar.pdb

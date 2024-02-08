@@ -1,0 +1,14 @@
+C:\Users\Râegar Nyroth\Desktop\c# udemy\c#console\c_ders_calisma\c_ders_calisma\bin\Debug\netcoreapp3.1\c_ders_calisma.exe
+C:\Users\Râegar Nyroth\Desktop\c# udemy\c#console\c_ders_calisma\c_ders_calisma\bin\Debug\netcoreapp3.1\c_ders_calisma.deps.json
+C:\Users\Râegar Nyroth\Desktop\c# udemy\c#console\c_ders_calisma\c_ders_calisma\bin\Debug\netcoreapp3.1\c_ders_calisma.runtimeconfig.json
+C:\Users\Râegar Nyroth\Desktop\c# udemy\c#console\c_ders_calisma\c_ders_calisma\bin\Debug\netcoreapp3.1\c_ders_calisma.runtimeconfig.dev.json
+C:\Users\Râegar Nyroth\Desktop\c# udemy\c#console\c_ders_calisma\c_ders_calisma\bin\Debug\netcoreapp3.1\c_ders_calisma.dll
+C:\Users\Râegar Nyroth\Desktop\c# udemy\c#console\c_ders_calisma\c_ders_calisma\bin\Debug\netcoreapp3.1\c_ders_calisma.pdb
+C:\Users\Râegar Nyroth\Desktop\c# udemy\c#console\c_ders_calisma\c_ders_calisma\obj\Debug\netcoreapp3.1\c_ders_calisma.csproj.AssemblyReference.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\c#console\c_ders_calisma\c_ders_calisma\obj\Debug\netcoreapp3.1\c_ders_calisma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Râegar Nyroth\Desktop\c# udemy\c#console\c_ders_calisma\c_ders_calisma\obj\Debug\netcoreapp3.1\c_ders_calisma.AssemblyInfoInputs.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\c#console\c_ders_calisma\c_ders_calisma\obj\Debug\netcoreapp3.1\c_ders_calisma.AssemblyInfo.cs
+C:\Users\Râegar Nyroth\Desktop\c# udemy\c#console\c_ders_calisma\c_ders_calisma\obj\Debug\netcoreapp3.1\c_ders_calisma.csproj.CoreCompileInputs.cache
+C:\Users\Râegar Nyroth\Desktop\c# udemy\c#console\c_ders_calisma\c_ders_calisma\obj\Debug\netcoreapp3.1\c_ders_calisma.dll
+C:\Users\Râegar Nyroth\Desktop\c# udemy\c#console\c_ders_calisma\c_ders_calisma\obj\Debug\netcoreapp3.1\c_ders_calisma.pdb
+C:\Users\Râegar Nyroth\Desktop\c# udemy\c#console\c_ders_calisma\c_ders_calisma\obj\Debug\netcoreapp3.1\c_ders_calisma.genruntimeconfig.cache
